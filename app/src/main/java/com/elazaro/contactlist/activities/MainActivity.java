@@ -12,6 +12,8 @@ import com.elazaro.contactlist.repositories.PersonRepository;
 
 import java.util.List;
 
+import android.support.v7.widget.PopupMenu;
+import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView contactsList;
